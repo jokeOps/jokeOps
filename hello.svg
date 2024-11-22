@@ -1,0 +1,83 @@
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .pixel {
+            shape-rendering: geometricPrecision;
+            fill: #40c463;
+            stroke-width: 1px;
+            stroke: rgba(27, 31, 35, 0.06);
+            animation: fadeIn 1.5s ease-in-out infinite;
+        }
+        
+        @keyframes fadeIn {
+            0% { fill: #ebedf0; }
+            50% { fill: #40c463; }
+            100% { fill: #216e39; }
+        }
+        
+        .d1 { animation-delay: 0.1s; }
+        .d2 { animation-delay: 0.2s; }
+        .d3 { animation-delay: 0.3s; }
+        .d4 { animation-delay: 0.4s; }
+        .d5 { animation-delay: 0.5s; }
+    </style>
+
+    <!-- H -->
+    <rect class="pixel d1" x="40" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="40" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="40" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="40" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="40" y="124" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="56" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="72" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="72" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="72" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="72" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d1" x="72" y="124" width="12" height="12" rx="2" />
+
+    <!-- E -->
+    <rect class="pixel d2" x="96" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="96" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="96" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="96" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="96" y="124" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="112" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="112" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d2" x="112" y="124" width="12" height="12" rx="2" />
+
+    <!-- L -->
+    <rect class="pixel d3" x="136" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d3" x="136" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d3" x="136" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d3" x="136" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d3" x="136" y="124" width="12" height="12" rx="2" />
+    <rect class="pixel d3" x="152" y="124" width="12" height="12" rx="2" />
+
+    <!-- L -->
+    <rect class="pixel d4" x="176" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d4" x="176" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d4" x="176" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d4" x="176" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d4" x="176" y="124" width="12" height="12" rx="2" />
+    <rect class="pixel d4" x="192" y="124" width="12" height="12" rx="2" />
+
+    <!-- O -->
+    <rect class="pixel d5" x="216" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="216" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="216" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="216" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="216" y="124" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="232" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="232" y="124" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="248" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="248" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="248" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="248" y="108" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="248" y="124" width="12" height="12" rx="2" />
+
+    <!-- ! -->
+    <rect class="pixel d5" x="272" y="60" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="272" y="76" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="272" y="92" width="12" height="12" rx="2" />
+    <rect class="pixel d5" x="272" y="124" width="12" height="12" rx="2" />
+
+</svg>
