@@ -37,7 +37,7 @@
 
 <h4 align="left">🌟 Always eager to learn new technologies and contribute to innovative projects
 <h4 align="left">🤝 Open for collaboration and interesting DevOps opportunities
-<h4 align="left">🇺🇦 Based in Ukraine and proud of it!
+<h4 align="left">🇺🇦 Based in Ukraine 🇺🇦
 
 ###
 
